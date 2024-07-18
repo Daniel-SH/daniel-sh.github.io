@@ -1,0 +1,158 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "五水硫酸铜",
+    "description": "",
+    "home_page_url": "https://yangxinzhen.com",
+    "feed_url": "https://yangxinzhen.com/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "YANG Xinzhen"
+    },
+    "items": [
+        {
+            "id": "https://yangxinzhen.com/article-8/",
+            "url": "https://yangxinzhen.com/article-8/",
+            "title": "宝剑锋从磨砺出 (copy)",
+            "summary": "第一篇文章。 #生物制药",
+            "content_html": "<p>第一篇文章。\n#生物制药 </p>",
+            "author": {
+                "name": "YANG Xinzhen"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-07-18T23:42:29+08:00",
+            "date_modified": "2024-07-18T23:42:29+08:00"
+        },
+        {
+            "id": "https://yangxinzhen.com/mei-hua-xiang-zi-ku-han-lai-8/",
+            "url": "https://yangxinzhen.com/mei-hua-xiang-zi-ku-han-lai-8/",
+            "title": "梅花香自苦寒来 (copy)",
+            "summary": "假装这是第二篇文章。 #标签 #标签2",
+            "content_html": "<p>假装这是第二篇文章。\n#标签 #标签2</p>",
+            "author": {
+                "name": "YANG Xinzhen"
+            },
+            "tags": [
+                   "生物制药"
+            ],
+            "date_published": "2024-07-18T23:42:29+08:00",
+            "date_modified": "2024-07-18T23:42:29+08:00"
+        },
+        {
+            "id": "https://yangxinzhen.com/mei-hua-xiang-zi-ku-han-lai-7/",
+            "url": "https://yangxinzhen.com/mei-hua-xiang-zi-ku-han-lai-7/",
+            "title": "梅花香自苦寒来 (copy)",
+            "summary": "假装这是第二篇文章。 #标签 #标签2",
+            "content_html": "<p>假装这是第二篇文章。\n#标签 #标签2</p>",
+            "author": {
+                "name": "YANG Xinzhen"
+            },
+            "tags": [
+                   "生物制药"
+            ],
+            "date_published": "2024-07-18T23:42:29+08:00",
+            "date_modified": "2024-07-18T23:42:29+08:00"
+        },
+        {
+            "id": "https://yangxinzhen.com/article-7/",
+            "url": "https://yangxinzhen.com/article-7/",
+            "title": "宝剑锋从磨砺出 (copy)",
+            "summary": "第一篇文章。 #生物制药",
+            "content_html": "<p>第一篇文章。\n#生物制药 </p>",
+            "author": {
+                "name": "YANG Xinzhen"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-07-18T23:42:29+08:00",
+            "date_modified": "2024-07-18T23:42:29+08:00"
+        },
+        {
+            "id": "https://yangxinzhen.com/article-6/",
+            "url": "https://yangxinzhen.com/article-6/",
+            "title": "宝剑锋从磨砺出 (copy)",
+            "summary": "第一篇文章。 #生物制药",
+            "content_html": "<p>第一篇文章。\n#生物制药 </p>",
+            "author": {
+                "name": "YANG Xinzhen"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-07-18T23:42:29+08:00",
+            "date_modified": "2024-07-18T23:42:29+08:00"
+        },
+        {
+            "id": "https://yangxinzhen.com/mei-hua-xiang-zi-ku-han-lai-6/",
+            "url": "https://yangxinzhen.com/mei-hua-xiang-zi-ku-han-lai-6/",
+            "title": "梅花香自苦寒来 (copy)",
+            "summary": "假装这是第二篇文章。 #标签 #标签2",
+            "content_html": "<p>假装这是第二篇文章。\n#标签 #标签2</p>",
+            "author": {
+                "name": "YANG Xinzhen"
+            },
+            "tags": [
+                   "生物制药"
+            ],
+            "date_published": "2024-07-18T23:42:29+08:00",
+            "date_modified": "2024-07-18T23:42:29+08:00"
+        },
+        {
+            "id": "https://yangxinzhen.com/mei-hua-xiang-zi-ku-han-lai-5/",
+            "url": "https://yangxinzhen.com/mei-hua-xiang-zi-ku-han-lai-5/",
+            "title": "梅花香自苦寒来 (copy)",
+            "summary": "假装这是第二篇文章。 #标签 #标签2",
+            "content_html": "<p>假装这是第二篇文章。\n#标签 #标签2</p>",
+            "author": {
+                "name": "YANG Xinzhen"
+            },
+            "tags": [
+                   "生物制药"
+            ],
+            "date_published": "2024-07-18T23:42:29+08:00",
+            "date_modified": "2024-07-18T23:42:29+08:00"
+        },
+        {
+            "id": "https://yangxinzhen.com/article-5/",
+            "url": "https://yangxinzhen.com/article-5/",
+            "title": "宝剑锋从磨砺出 (copy)",
+            "summary": "第一篇文章。 #生物制药",
+            "content_html": "<p>第一篇文章。\n#生物制药 </p>",
+            "author": {
+                "name": "YANG Xinzhen"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-07-18T23:42:29+08:00",
+            "date_modified": "2024-07-18T23:42:29+08:00"
+        },
+        {
+            "id": "https://yangxinzhen.com/article-4/",
+            "url": "https://yangxinzhen.com/article-4/",
+            "title": "宝剑锋从磨砺出 (copy)",
+            "summary": "第一篇文章。 #生物制药",
+            "content_html": "<p>第一篇文章。\n#生物制药 </p>",
+            "author": {
+                "name": "YANG Xinzhen"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-07-18T23:41:46+08:00",
+            "date_modified": "2024-07-18T23:41:46+08:00"
+        },
+        {
+            "id": "https://yangxinzhen.com/mei-hua-xiang-zi-ku-han-lai-4/",
+            "url": "https://yangxinzhen.com/mei-hua-xiang-zi-ku-han-lai-4/",
+            "title": "梅花香自苦寒来 (copy)",
+            "summary": "假装这是第二篇文章。 #标签 #标签2",
+            "content_html": "<p>假装这是第二篇文章。\n#标签 #标签2</p>",
+            "author": {
+                "name": "YANG Xinzhen"
+            },
+            "tags": [
+                   "生物制药"
+            ],
+            "date_published": "2024-07-18T23:41:46+08:00",
+            "date_modified": "2024-07-18T23:41:46+08:00"
+        }
+    ]
+}
